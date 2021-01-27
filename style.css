@@ -1,0 +1,54 @@
+.body{
+	/*
+	background-image: url("img/backgroud.png");
+	*/
+}
+#searchbar{
+	text-align: center;
+}
+.h1{
+	color: red;
+}
+.bouton{
+  background-color: #29CAD5;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.champ{
+	padding: 12px 16px;;
+}
+
+#contains{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(4, auto);
+  grid-gap: 20px;
+}
+
+.item{
+  height: 100;
+  width: 200;
+  background-color: beige;
+}
+
+.btn{
+  position: relative;
+  display: inline-block;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+
+#erreur{text-align: center;}
+#divAudio{text-align: center;}
