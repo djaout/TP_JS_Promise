@@ -1,5 +1,6 @@
 # TP_JS_Promise
 
+
 Ce qui a été effectué pour ce TP : 
 - Utilisation de l'API Itunes
 - Utilisation de Async / wait / fetch
@@ -8,6 +9,7 @@ Ce qui a été effectué pour ce TP :
     - Si on met un nom d'artiste non existant --> message d"erreur affiché
 
 Scénario de test : 
+Lancement server : npx serve 
 1 - Cliquer sur " recherche " sans rien écrire, 
 				Expected result : le message ' Veuillez saisir un nom d'artiste...' est affiché
 				
