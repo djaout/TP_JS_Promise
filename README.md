@@ -22,10 +22,11 @@ Lancement server : npx serve.
 4 - refresh la page
 
 5 - Saisissez un nom d'artiste, exemple ' gims ' 
-					Expected result : - Une liste contenant les titres est affichée
-							  - Sur chaque element de la liste il y a un bouton 'play'
-							  - Cliquer sur 'play'  --> l'audio est affiché
-							  - Ensuite cliquer sur play de l'audio 
+					- Expected result :
+						- Une liste contenant les titres est affichée
+						- Sur chaque element de la liste il y a un bouton 'play'
+						- Cliquer sur 'play'  --> l'audio est affiché
+						- Ensuite cliquer sur play de l'audio 
 
 Remarque : à la fin de chauqe test, il faut rafraichir la page.													
 										
