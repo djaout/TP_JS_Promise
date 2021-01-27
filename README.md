@@ -9,7 +9,8 @@ Ce qui a été effectué pour ce TP :
     - Si on met un nom d'artiste non existant --> message d"erreur affiché
 
 Scénario de test : 
-Lancement server : npx serve 
+Lancement server : npx serve.
+
 1 - Cliquer sur " recherche " sans rien écrire, 
 				Expected result : le message ' Veuillez saisir un nom d'artiste...' est affiché
 				
@@ -22,9 +23,9 @@ Lancement server : npx serve
 
 5 - Saisissez un nom d'artiste, exemple ' gims ' 
 					Expected result : - Une liste contenant les titres est affichée
-														- Sur chaque element de la liste il y a un bouton 'play'
-														- Cliquer sur 'play'  --> l'audio est affiché
-														- Ensuite cliquer sur play de l'audio 
+							  - Sur chaque element de la liste il y a un bouton 'play'
+							  - Cliquer sur 'play'  --> l'audio est affiché
+							  - Ensuite cliquer sur play de l'audio 
 
 Remarque : à la fin de chauqe test, il faut rafraichir la page.													
 										
